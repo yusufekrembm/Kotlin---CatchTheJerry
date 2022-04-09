@@ -6,6 +6,6 @@
 
 These are images about Catch The Jerry
 
-![Screenshot_1649512404](https://user-images.githubusercontent.com/88238748/162577242-7aed1288-077a-46f0-87e1-b7dd00609a4d.png)
-![Screenshot_1649512419](https://user-images.githubusercontent.com/88238748/162577245-f7ecf3c7-6397-44f3-b5b8-65f55163023b.png)
-![Screenshot_1649512423](https://user-images.githubusercontent.com/88238748/162577246-006a080e-1152-4d9d-9811-288d12a48b89.png)
+<img src="https://user-images.githubusercontent.com/88238748/162577397-f12563f2-7f1b-47f6-9d32-99264faf488c.png" width="300" height="200">
+<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="48">
