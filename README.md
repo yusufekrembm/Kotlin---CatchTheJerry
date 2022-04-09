@@ -1,7 +1,7 @@
 # Kotlin---CatchTheJerry
 
 - This is a simple Kotlin Game
-- I made it byself
+- I made it by myself
 - Learned Runnable,AlertDialog,CountDownTimer
 
 These are images about Catch The Jerry
